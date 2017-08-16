@@ -1,0 +1,3 @@
+# CopyOneSimpleSpringMVCForLearning
+
+这是一个网上copy的Spring项目，用来学习进一步学习用的，没有繁琐的类
